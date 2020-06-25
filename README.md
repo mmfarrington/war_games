@@ -20,7 +20,7 @@ Source code files: https://github.com/mmfarrington/war_games/src
 
 This is a simple command-line game. 
 
-![instructions](https://github.com/mmfarrington/war_games/blob/master/images/1.instructions.jpg?)
+[Introduction](images/1.instructions.jpg)
 
 ## Contributing
 
