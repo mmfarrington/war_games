@@ -14,13 +14,11 @@ This game features the use of several C++ constructs (arrays, loops, etc) and is
 
 ## Installation
 
-Source code files: https://github.com/mmfarrington/war_games/src
+Source code files are located in the /src folder.
 
 ## Instructions
 
-This is a simple command-line game. 
-
-[Introduction](images/1.instructions.jpg)
+This is a simple command-line game. Screenshots and instructions can be found in the /images folder.
 
 ## Contributing
 
